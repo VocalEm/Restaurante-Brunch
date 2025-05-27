@@ -1,0 +1,77 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: El directorio intermedio (x64\Debug\) contiene archivos compartidos de otro proyecto (SegundoAvancePA.vcxproj). Esto puede dar lugar a un comportamiento incorrecto de limpieza y recompilación.
+  TercerAvance.cpp
+C:\Users\emili\Downloads\SegundoAvancePA\SegundoAvancePA\SegundoAvancePA\TercerAvance.cpp(343,12): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\emili\Downloads\SegundoAvancePA\SegundoAvancePA\SegundoAvancePA\TercerAvance.cpp(407,15): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\emili\Downloads\SegundoAvancePA\SegundoAvancePA\SegundoAvancePA\TercerAvance.cpp(478,16): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\emili\Downloads\SegundoAvancePA\SegundoAvancePA\SegundoAvancePA\TercerAvance.cpp(685,15): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\emili\Downloads\SegundoAvancePA\SegundoAvancePA\SegundoAvancePA\TercerAvance.cpp(757,24): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\emili\Downloads\SegundoAvancePA\SegundoAvancePA\SegundoAvancePA\TercerAvance.cpp(765,62): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\emili\Downloads\SegundoAvancePA\SegundoAvancePA\SegundoAvancePA\TercerAvance.cpp(783,16): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\emili\Downloads\SegundoAvancePA\SegundoAvancePA\SegundoAvancePA\TercerAvance.cpp(785,13): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\emili\Downloads\SegundoAvancePA\SegundoAvancePA\SegundoAvancePA\TercerAvance.cpp(655,6): warning C4101: 'num': variable local sin referencia
+C:\Users\emili\Downloads\SegundoAvancePA\SegundoAvancePA\SegundoAvancePA\TercerAvance.cpp(857,15): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\emili\Downloads\SegundoAvancePA\SegundoAvancePA\SegundoAvancePA\TercerAvance.cpp(899,16): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\emili\Downloads\SegundoAvancePA\SegundoAvancePA\SegundoAvancePA\TercerAvance.cpp(956,23): warning C4244: 'inicializando': conversión de 'std::streamoff' a 'int'; posible pérdida de datos
+C:\Users\emili\Downloads\SegundoAvancePA\SegundoAvancePA\SegundoAvancePA\TercerAvance.cpp(1020,15): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\emili\Downloads\SegundoAvancePA\SegundoAvancePA\SegundoAvancePA\TercerAvance.cpp(1117,15): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\emili\Downloads\SegundoAvancePA\SegundoAvancePA\SegundoAvancePA\TercerAvance.cpp(1153,16): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\emili\Downloads\SegundoAvancePA\SegundoAvancePA\SegundoAvancePA\TercerAvance.cpp(1157,13): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\emili\Downloads\SegundoAvancePA\SegundoAvancePA\SegundoAvancePA\TercerAvance.cpp(1224,15): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\emili\Downloads\SegundoAvancePA\SegundoAvancePA\SegundoAvancePA\TercerAvance.cpp(1257,16): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\emili\Downloads\SegundoAvancePA\SegundoAvancePA\SegundoAvancePA\TercerAvance.cpp(1261,13): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\emili\Downloads\SegundoAvancePA\SegundoAvancePA\SegundoAvancePA\TercerAvance.cpp(1459,15): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\emili\Downloads\SegundoAvancePA\SegundoAvancePA\SegundoAvancePA\TercerAvance.cpp(1575,16): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\emili\Downloads\SegundoAvancePA\SegundoAvancePA\SegundoAvancePA\TercerAvance.cpp(1577,13): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\emili\Downloads\SegundoAvancePA\SegundoAvancePA\SegundoAvancePA\TercerAvance.cpp(1638,23): warning C4244: 'inicializando': conversión de 'std::streamoff' a 'int'; posible pérdida de datos
+C:\Users\emili\Downloads\SegundoAvancePA\SegundoAvancePA\SegundoAvancePA\TercerAvance.cpp(1720,15): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\emili\Downloads\SegundoAvancePA\SegundoAvancePA\SegundoAvancePA\TercerAvance.cpp(1820,16): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\emili\Downloads\SegundoAvancePA\SegundoAvancePA\SegundoAvancePA\TercerAvance.cpp(1894,15): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\emili\Downloads\SegundoAvancePA\SegundoAvancePA\SegundoAvancePA\TercerAvance.cpp(2008,16): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\emili\Downloads\SegundoAvancePA\SegundoAvancePA\SegundoAvancePA\TercerAvance.cpp(2078,15): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\emili\Downloads\SegundoAvancePA\SegundoAvancePA\SegundoAvancePA\TercerAvance.cpp(2103,16): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\emili\Downloads\SegundoAvancePA\SegundoAvancePA\SegundoAvancePA\TercerAvance.cpp(2293,23): warning C4244: 'inicializando': conversión de 'std::streamoff' a 'int'; posible pérdida de datos
+C:\Users\emili\Downloads\SegundoAvancePA\SegundoAvancePA\SegundoAvancePA\TercerAvance.cpp(2353,15): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\emili\Downloads\SegundoAvancePA\SegundoAvancePA\SegundoAvancePA\TercerAvance.cpp(2376,16): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\emili\Downloads\SegundoAvancePA\SegundoAvancePA\SegundoAvancePA\TercerAvance.cpp(2497,15): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\emili\Downloads\SegundoAvancePA\SegundoAvancePA\SegundoAvancePA\TercerAvance.cpp(2522,16): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\emili\Downloads\SegundoAvancePA\SegundoAvancePA\SegundoAvancePA\TercerAvance.cpp(2674,15): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\emili\Downloads\SegundoAvancePA\SegundoAvancePA\SegundoAvancePA\TercerAvance.cpp(2699,16): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\emili\Downloads\SegundoAvancePA\SegundoAvancePA\SegundoAvancePA\TercerAvance.cpp(2838,23): warning C4244: 'inicializando': conversión de 'std::streamoff' a 'int'; posible pérdida de datos
+C:\Users\emili\Downloads\SegundoAvancePA\SegundoAvancePA\SegundoAvancePA\TercerAvance.cpp(2911,15): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\emili\Downloads\SegundoAvancePA\SegundoAvancePA\SegundoAvancePA\TercerAvance.cpp(3030,16): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\emili\Downloads\SegundoAvancePA\SegundoAvancePA\SegundoAvancePA\TercerAvance.cpp(3106,15): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\emili\Downloads\SegundoAvancePA\SegundoAvancePA\SegundoAvancePA\TercerAvance.cpp(3119,16): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\emili\Downloads\SegundoAvancePA\SegundoAvancePA\SegundoAvancePA\TercerAvance.cpp(3287,16): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\emili\Downloads\SegundoAvancePA\SegundoAvancePA\SegundoAvancePA\TercerAvance.cpp(3323,17): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\emili\Downloads\SegundoAvancePA\SegundoAvancePA\SegundoAvancePA\TercerAvance.cpp(3134,8): warning C4101: 'ntipo': variable local sin referencia
+C:\Users\emili\Downloads\SegundoAvancePA\SegundoAvancePA\SegundoAvancePA\TercerAvance.cpp(3422,15): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\emili\Downloads\SegundoAvancePA\SegundoAvancePA\SegundoAvancePA\TercerAvance.cpp(3444,16): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\emili\Downloads\SegundoAvancePA\SegundoAvancePA\SegundoAvancePA\TercerAvance.cpp(3532,15): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\emili\Downloads\SegundoAvancePA\SegundoAvancePA\SegundoAvancePA\TercerAvance.cpp(3558,16): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\emili\Downloads\SegundoAvancePA\SegundoAvancePA\SegundoAvancePA\TercerAvance.cpp(3793,15): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\emili\Downloads\SegundoAvancePA\SegundoAvancePA\SegundoAvancePA\TercerAvance.cpp(3867,15): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\emili\Downloads\SegundoAvancePA\SegundoAvancePA\SegundoAvancePA\TercerAvance.cpp(3945,15): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\emili\Downloads\SegundoAvancePA\SegundoAvancePA\SegundoAvancePA\TercerAvance.cpp(4445,15): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Users\emili\Downloads\SegundoAvancePA\SegundoAvancePA\SegundoAvancePA\TercerAvance.cpp(4472,16): warning C4244: 'inicializando': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xstring(2728,53): warning C4244: 'argumento': conversión de 'wchar_t' a 'const _Elem'; posible pérdida de datos
+          with
+          [
+              _Elem=char
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xstring(2584,17): message : Vea la referencia a la creación de una instancia de la función plantilla "void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct_from_iter<wchar_t*,wchar_t*,_Size_type>(_Iter,const _Sent,_Size)" que se está compilando
+          with
+          [
+              _Size_type=unsigned __int64,
+              _Iter=wchar_t *,
+              _Sent=wchar_t *,
+              _Size=unsigned __int64
+          ]
+C:\Users\emili\Downloads\SegundoAvancePA\SegundoAvancePA\SegundoAvancePA\TercerAvance.cpp(227,15): message : Vea la referencia a la creación de una instancia de la función plantilla "std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)" que se está compilando
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+C:\Users\emili\Downloads\SegundoAvancePA\SegundoAvancePA\SegundoAvancePA\TercerAvance.cpp(227,15): message : vea la primera referencia a “std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string” en “agregarNodoUsuario”
+  SegundoAvancePA.vcxproj -> C:\Users\emili\Downloads\SegundoAvancePA\SegundoAvancePA\x64\Debug\Tercer Avance.exe
